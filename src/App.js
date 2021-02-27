@@ -28,7 +28,7 @@ function App() {
       <Navbar/>
       
       <div className="content">
-        <Home/>
+      <Home/>
       </div>
 
       <a href={link}>Site</a>
